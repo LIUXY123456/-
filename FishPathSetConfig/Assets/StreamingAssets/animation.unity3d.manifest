@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 296975152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2877698b6edbae85f5173f25ce87fa83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31a8e35008e8aab720d0136425be6fad
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animation/PaiUpAni.anim
+- Assets/Resources/Animation/PaiDownAni.anim
+- Assets/Resources/Animation/New Animation.anim
+- "Assets/Resources/Animation/\u6597\u5730\u4E3B\u7684\u724C.controller"
+Dependencies: []

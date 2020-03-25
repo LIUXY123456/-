@@ -1,0 +1,120 @@
+ManifestFileVersion: 0
+CRC: 752168101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df89fb4f4ffee691f54877135f6c7278
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3835f73ed13bb6d16c015d0c35025b4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11817e30a4b424d04aae4e7f0e1b0edc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8b99e613ce9bf64db609f54fbd1b386, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1333a183b8951124fa554e31ba39f1db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 95c7d226558d84844853353b96bbd43f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68e95c3830cac43c0b74e147ad7ca853, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 160e1188267bf30428273b91aa9dc5c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c00717b293a0f34e814745e34d5adc9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f825bb5ce93d6ab429dfa508444119b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bde9b1e9236d244fa9235b8d6d5950a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Panels/Common/NoticeFramePanel.prefab
+- Assets/Resources/Textures/Atlas/KingKong/KingKong_Room.png
+- Assets/Resources/Textures/Atlas/ATT/ATT_SELECT.png
+- "Assets/Resources/DragonBoneAsset/common/\u8F6C\u5708\u52A0\u8F7D/jia_zai_ske.json"
+- Assets/Resources/Prefabs/Items/Message/ShareSDKItem.prefab
+- Assets/Resources/Prefabs/Items/Message/LoadingItem.prefab
+- Assets/Resources/Prefabs/Panels/Common/ChildGameLoadingPanel.prefab
+- Assets/Resources/Textures/Atlas/21D/BlackJack_RoomBG.png
+- Assets/Resources/Textures/Atlas/SchemesOfABeauty/SchemesOfABeautyRoom.png
+- "Assets/Resources/DragonBoneAsset/common/\u8F6C\u5708\u52A0\u8F7D/jia_zai_tex.png"
+- "Assets/Fonts/\u65B9\u6B63\u6B63\u4E2D\u9ED1\u7B80\u4F53.TTF"
+- Assets/Resources/Textures/Atlas/CommonAtlas/CommonAtlas_0.png
+- Assets/Fonts/Arkhip-font-1.ttf
+- Assets/Resources/Prefabs/Items/Message/CheckEffect.prefab
+- Assets/Resources/Audios/Common/commonBtn.wav
+- Assets/Resources/Textures/Atlas/ZSDH/ZSDH_SELECT.png
+- Assets/Resources/Prefabs/Panels/Common/LoadingPanel.prefab
+- Assets/Resources/Textures/Atlas/GameHall/GameLoadAtlas.png
+- "Assets/Fonts/\u5FAE\u8F6F\u96C5\u9ED1.ttf"
+- Assets/Resources/Prefabs/Panels/Common/KickOffTipsPanel.prefab
+- Assets/Resources/Textures/Atlas/GameHall/152-139.png
+- "Assets/Resources/DragonBoneAsset/common/\u8F6C\u5708\u52A0\u8F7D/jia_zai_tex.json"
+- Assets/Resources/Textures/Atlas/F-Machine/FM_Class.png
+- Assets/Resources/Textures/Atlas/21D/BlackJack_Room.png
+- Assets/Resources/Prefabs/Items/Message/MessageItem.prefab
+- Assets/Resources/Textures/Atlas/Buyu/Buyu_Room.png
+- Assets/Resources/Textures/Atlas/Laba/Laba_Class.png
+Dependencies:
+- E:/LuckyDreamFactory/luckydreamfactory/Project Flies/LCHY Project  unity2018.3 .0
+  LuckyDreamFactory/Assets/StreamingAssets/game/common/gamehall.unity3d
+- E:/LuckyDreamFactory/luckydreamfactory/Project Flies/LCHY Project  unity2018.3 .0
+  LuckyDreamFactory/Assets/StreamingAssets/login.unity3d

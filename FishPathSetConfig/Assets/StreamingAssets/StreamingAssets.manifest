@@ -1,0 +1,159 @@
+ManifestFileVersion: 0
+CRC: 1972757402
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: game/kingkong/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+        Dependency_1: game/kingkong/audio.unity3d
+    Info_1:
+      Name: game/att/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+    Info_2:
+      Name: game/laba/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+        Dependency_1: game/laba/other.unity3d
+    Info_3:
+      Name: game/common/gamehall.unity3d
+      Dependencies:
+        Dependency_0: game/zsdh/ui.unity3d
+        Dependency_1: common.unity3d
+    Info_4:
+      Name: game/zsdh/ui.unity3d
+      Dependencies:
+        Dependency_0: game/att/ui.unity3d
+        Dependency_1: common.unity3d
+    Info_5:
+      Name: game/buyu/netandbullet.unity3d
+      Dependencies:
+        Dependency_0: game/buyu/ui.unity3d
+    Info_6:
+      Name: game/buyu/ui.unity3d
+      Dependencies:
+        Dependency_0: game/buyu/netandbullet.unity3d
+        Dependency_1: common.unity3d
+    Info_7:
+      Name: game/fqzs/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+        Dependency_1: game/fqzs/other.unity3d
+    Info_8:
+      Name: game/fm/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+        Dependency_1: game/laba/other.unity3d
+    Info_9:
+      Name: game/bcbm/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+    Info_10:
+      Name: common.unity3d
+      Dependencies:
+        Dependency_0: game/common/gamehall.unity3d
+        Dependency_1: login.unity3d
+    Info_11:
+      Name: game/777/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+    Info_12:
+      Name: game/schemesofabeauty/ui.unity3d
+      Dependencies:
+        Dependency_0: common.unity3d
+    Info_13:
+      Name: login.unity3d
+      Dependencies:
+        Dependency_0: game/common/gamehall.unity3d
+        Dependency_1: common.unity3d
+    Info_14:
+      Name: animation.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: game/laba/other.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: game/buyu/other.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: game/laba/audio.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: game/buyu/audio.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: game/kingkong/audio.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: game/fqzs/audio.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: game/fm/audio.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: game/att/audio.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: game/bcbm/audio.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: game/zsdh/audio.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: game/kingkong/items.unity3d
+      Dependencies:
+        Dependency_0: game/kingkong/ui.unity3d
+    Info_26:
+      Name: game/buyu/fish.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: game/schemesofabeauty/items.unity3d
+      Dependencies:
+        Dependency_0: game/schemesofabeauty/ui.unity3d
+    Info_28:
+      Name: game/bcbm/items.unity3d
+      Dependencies:
+        Dependency_0: game/bcbm/ui.unity3d
+        Dependency_1: common.unity3d
+    Info_29:
+      Name: game/kingkong/other.unity3d
+      Dependencies:
+        Dependency_0: game/kingkong/ui.unity3d
+    Info_30:
+      Name: game/zsdh/items.unity3d
+      Dependencies:
+        Dependency_0: game/zsdh/ui.unity3d
+    Info_31:
+      Name: game/fqzs/items.unity3d
+      Dependencies:
+        Dependency_0: game/fqzs/ui.unity3d
+        Dependency_1: common.unity3d
+    Info_32:
+      Name: game/ddz/ui.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: game/fqzs/other.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: game/zsdh/other.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: game/att/items.unity3d
+      Dependencies:
+        Dependency_0: game/att/ui.unity3d
+    Info_36:
+      Name: game/schemesofabeauty/audio.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: game/blackjack/ui.unity3d
+      Dependencies:
+        Dependency_0: game/fqzs/ui.unity3d
+        Dependency_1: common.unity3d
+    Info_38:
+      Name: game/blackjack/items.unity3d
+      Dependencies:
+        Dependency_0: game/blackjack/ui.unity3d
+    Info_39:
+      Name: game/blackjack/audio.unity3d
+      Dependencies: {}

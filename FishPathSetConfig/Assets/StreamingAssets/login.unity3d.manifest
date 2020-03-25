@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 565874581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b719710fdbf4c0c9154669ebd7066eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 42f83e238fefd7d33129fba16bfc5aa7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa70a3613ded06042b051dd26f8255ee, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41abf434a31446141b50b2a5d0d4baa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d93a0446ae4a6f4faa237559931ad61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be4faa5404cdf1845b7dce1b3bc6038a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e0e615384afab408e99ce9d041218e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16f0ee58871414543acfc373994b4b98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a66227eb45ba1c94eaeb39f818d8dbb4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f825bb5ce93d6ab429dfa508444119b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dfe11beb597d1a40a892f995bd31b3d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Items/Login/IconItemPrefab.prefab
+- Assets/Resources/Prefabs/Panels/Login/PerfectInfoPanel.prefab
+- Assets/Resources/Prefabs/Panels/Login/SelectLoginPanel.prefab
+- Assets/Resources/Prefabs/Panels/Login/ChangePicturePanel.prefab
+- Assets/Resources/Prefabs/Panels/Login/RegisterPanel.prefab
+- Assets/Resources/Prefabs/Panels/Login/AccountLoginPanel.prefab
+- Assets/Resources/Audios/Login/The Final Countdown_011_01.mp3
+- Assets/Resources/Textures/Atlas/Login/login.png
+- Assets/Resources/Prefabs/Panels/Login/FindPasswordPanel.prefab
+- Assets/Resources/Textures/Atlas/Login/login_bg.jpg
+Dependencies:
+- E:/LuckyDreamFactory/luckydreamfactory/Project Flies/LCHY Project  unity2018.3 .0
+  LuckyDreamFactory/Assets/StreamingAssets/game/common/gamehall.unity3d
+- E:/LuckyDreamFactory/luckydreamfactory/Project Flies/LCHY Project  unity2018.3 .0
+  LuckyDreamFactory/Assets/StreamingAssets/common.unity3d
